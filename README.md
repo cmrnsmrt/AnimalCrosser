@@ -1,2 +1,5 @@
-# AnimalCrosser
- An android app that allows for vilager tracking in Animal Crossing New Horizons
+# Animal Crosser
+
+ An android app to track your villagers in Animal Crossing New Horizons
+
+ [Read the full report here](Report.pdf)
